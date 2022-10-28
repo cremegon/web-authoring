@@ -1,0 +1,30 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#masthead p {
+	text-transform: uppercase;
+	font-style: italic;
+	font-size: 1.2rem;
+	letter-spacing: 0.1rem;
+}
+
+nav a {
+	font-weight: bold;
+	font-size: 0.875rem;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.article_body h2 {
+	font-size: 2rem;
+}
+
+.author{
+	font-style: italic;
+}
+
+.date{
+	font-size: 2rem;
+}
+
